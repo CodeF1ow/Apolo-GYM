@@ -23,7 +23,7 @@ export const Contact = () => {
           </div>
           <div className={styles.infoBottom}>
             <h3>Información</h3>
-            <p>+34-693-73-33-03 <br />k1ri86mail@gmail.com</p>
+            <p>+34-693-000-000 <br />k1ri86mail@gmail.com</p>
           </div>
           <div className={styles.icons}>
             <h3>Follow Us On</h3>
