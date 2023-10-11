@@ -13,7 +13,7 @@ export const About = () => {
         </div>
         <div className={styles.containerText}>
           <h2>COMIENZO</h2>
-          <h3>Comenzamos con mucha ilusión y compromiso para ofrecerte el servicio que te mereces, queremos tanto como tú ver ese resultado, ese cambio que deseas está a tu alcance en Apolo.</h3>
+          <h3>Comenzamos con mucha ilusión y compromiso para ofrecerte el servicio que te mereces, queremos tanto como tú ver ese resultado, ese cambio que deseas está a tu alcance en Web.</h3>
         </div>
 
         <div className={styles.containerText}>

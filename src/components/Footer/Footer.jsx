@@ -19,7 +19,7 @@ export const Footer = () => {
             <a target='_blank' rel='noopener noreferrer' href='https://www.linkedin.com/in/antonio-silva-developer/'><i className='bx bxl-linkedin' /></a>
             <a target='_blank' rel='noopener noreferrer' href='https://github.com/Asilvazavala'><i className='bx bxl-github' /></a>
           </div>
-          <p>Política de privacidad | © 2023 Apolo GYM <br />Diseñador Kiri86  </p>
+          <p>Política de privacidad | © 2023 Web GYM <br />Diseñador Oscar  </p>
         </div>
 
         <div className={styles.centerContainer}>
@@ -34,7 +34,7 @@ export const Footer = () => {
         </div>
 
         <div className={styles.rightContainer}>
-          <h3>Horario Apolo</h3>
+          <h3>Horario Web</h3>
           <p className={styles.dayTitle}>Lunes - Viernes:</p>
           <p>7:00am - 21:00pm</p>
           <p className={styles.dayTitle}>Sábado:</p>

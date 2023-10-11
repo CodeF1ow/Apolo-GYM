@@ -10,7 +10,7 @@ export const useTestimonials = () => {
       id: 1,
       image: imgGym,
       name: 'Oscar',
-      description: '“He sido miembro de Apolo GYM durante los últimos 6 meses y ha sido una experiencia increíble. Los entrenadores son conocedores y solidarios, el equipo es de primera calidad y la comunidad de miembros es amigable y alentadora..”'
+      description: '“He sido miembro de Web GYM durante los últimos 6 meses y ha sido una experiencia increíble. Los entrenadores son conocedores y solidarios, el equipo es de primera calidad y la comunidad de miembros es amigable y alentadora..”'
     },
     {
       id: 2,
@@ -22,7 +22,7 @@ export const useTestimonials = () => {
       id: 3,
       image: imgGym3,
       name: 'Pedro Lopez',
-      description: '“He sido miembro de Apolo GYM durante los últimos 6 meses y ha sido una experiencia increíble. Los entrenadores son conocedores y solidarios, el equipo es de primera calidad y la comunidad de miembros es amigable y alentadora..”'
+      description: '“He sido miembro de Web GYM durante los últimos 6 meses y ha sido una experiencia increíble. Los entrenadores son conocedores y solidarios, el equipo es de primera calidad y la comunidad de miembros es amigable y alentadora..”'
     },
     {
       id: 4,

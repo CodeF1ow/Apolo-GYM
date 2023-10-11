@@ -5,7 +5,7 @@ import { useNavBar } from '../../hooks/useNavBar'
 
 function Navbar () {
   // const BASE_URL = 'http://localhost:4321/'
-  const BASE_URL = 'https://apolo-gym.vercel.app/'
+  const BASE_URL = 'https://apolo-gym.netlify.app/'
   const { goTop, closeNavbar, isSmallScreen, showNavbar, showNav } = useNavBar()
 
   // Navbar cambia a fondo negro al hacer scroll
