@@ -1,30 +1,39 @@
-<div id="header">
- <h1 align="left">Web GYM</h1>
- <h3 align="left">Hola, este sitio web ofrece un espacio para que las personas mejoren su condición física y su salud en general a través del ejercicio regular y la actividad física, con una interfaz fácil de usar.
-  </h3>
-</div>
+# Web Apolo Gym
+
+Hola, este sitio web ofrece un espacio para que las personas mejoren su condición física y su salud en general a través del ejercicio regular y la actividad física, con una interfaz fácil de usar.
 
 ---
 
-### BUILD WITH:
+ **Construido con**:
 
-<p>- Javascript</p>
-<p>- React</p>
-<p>- Modulos CSS</p>
-
----
-
-### DEPENDENCIES TO RUN THE PROJECT:
-
-<p>- React Router DOM: npm i react-router-dom</p>
-<p>- Start project: npm run dev</p>
+- JavaScript
+- React
+- CSS
 
 ---
 
-### LIVE DEMO: 
+ **Ejecutando la Aplicación**
 
-<p><a href="https://apolo-gym.netlify.app/" >LINK A Web GYM</a></p>
+1. Clona el repositorio: `git clone https://github.com/CodeF1ow/Apolo-GYM.git`
+2. Instala las dependencias: `pnpm install`
+3. Inicia la aplicación: `pnpm run dev`
+
+---
+
+**Demo**
+
+[Demo](https://apolo-gym.netlify.app/)
 
 ## Licencia
 
 Este proyecto está bajo la [Licencia MIT](LICENSE).
+
+---
+
+## Información de Contacto
+
+Para cualquier duda o consulta, no dudes en ponerte en contacto con nosotros a través de [correo electrónico](mailto:correo@codef1ow.dev) o [Twitter](https://twitter.com/codef1ow).
+
+## Autor
+
+- [@CodeF1ow](https://github.com/CodeF1ow)
