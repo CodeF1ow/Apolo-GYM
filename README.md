@@ -24,3 +24,7 @@
 ### LIVE DEMO: 
 
 <p><a href="https://apolo-gym.netlify.app/" >LINK A Web GYM</a></p>
+
+## Licencia
+
+Este proyecto está bajo la [Licencia MIT](LICENSE).
